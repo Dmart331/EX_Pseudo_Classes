@@ -1,0 +1,19 @@
+.top li{
+	list-style-type: none;
+}
+
+.top .block {
+	display: inline-block;
+
+}
+
+.inline {
+	display: block;
+	border: 1px solid black;
+	margin: 25px;
+}
+
+.n-child: nth-child(n) {
+	color:yellow;
+	border: 1px solid black;
+}
