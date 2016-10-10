@@ -13,7 +13,7 @@
 	margin: 25px;
 }
 
-.n-child: nth-child(n) {
-	color:yellow;
+.n-child :nth-child(even) {
+	color:black;
 	border: 1px solid black;
 }
